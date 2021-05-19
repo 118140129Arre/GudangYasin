@@ -1,0 +1,26 @@
+body {
+  font-family: "Times New Roman", Times, serif;
+  height: 100vh;
+  background: url("https://cdn.pixabay.com/photo/2017/10/04/18/14/ice-2817112_960_720.jpg") 50% fixed;
+  background-size: cover;
+}
+
+.k1 {
+  width: 175px;
+  height: 175px;
+  border: 6px solid rgb(40, 155, 209);
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h2 {
+  text-align: center;
+  /*ketebalan font*/
+  font-weight: 200;
+  font-size: 50px;
+}
+
+h3 {
+  text-align: center;
+}

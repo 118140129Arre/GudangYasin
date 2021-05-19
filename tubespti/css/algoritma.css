@@ -1,0 +1,13 @@
+body{
+    font-family: "Times New Roman", Times, serif;
+	background: url("https://cdn.pixabay.com/photo/2017/10/04/18/14/ice-2817112_960_720.jpg") no-repeat ;
+    background-size: 3000px 3000px;
+	background-attachment:fixed;
+   	-webkit-background-size: cover;
+   	-moz-background-size: cover;
+   	-o-background-size: cover;
+}
+
+.ukf{
+	font-size: 13px;
+}
